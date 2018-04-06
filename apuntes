@@ -1,0 +1,16 @@
+para mostrar mensajes en js
+    -> consolog.log(nonbre);
+    ->document.write();
+    ->alert();
+
+para pedir
+    ->a=prompt("Ingrese nombre: ");
+
+
+arreglos --
+    pop() 
+    push()
+    join() -> separador al mostrar en document -> v=[1,2,4] v.join(' : ')-> 1 : 2 : 4
+    reverse() ->inverso al orden dado
+    sort() -> ordenar alfabeticamente
+    
