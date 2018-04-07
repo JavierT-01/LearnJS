@@ -6,7 +6,7 @@ para mostrar mensajes en js
 para pedir
     ->a=prompt("Ingrese nombre: ");
 
-----
+---------cambio randum
 arreglos --
     pop() 
     push()
