@@ -13,4 +13,9 @@ arreglos --
     join() -> separador al mostrar en document -> v=[1,2,4] v.join(' : ')-> 1 : 2 : 4
     reverse() ->inverso al orden dado
     sort() -> ordenar alfabeticamente
+
+tipos de variables
+    Undefined -> cuando no defines el tipo (cuando no le das un valor inicial)
+    Null -> Resetea el valor de la variables
+    NaN -> Valor de la operacion invalida
     
